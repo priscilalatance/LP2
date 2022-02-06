@@ -1,0 +1,10 @@
+C:\Users\Priscila\Desktop\C#\pDescontos\pDescontos\bin\Debug\pDescontos.exe.config
+C:\Users\Priscila\Desktop\C#\pDescontos\pDescontos\bin\Debug\pDescontos.exe
+C:\Users\Priscila\Desktop\C#\pDescontos\pDescontos\bin\Debug\pDescontos.pdb
+C:\Users\Priscila\Desktop\C#\pDescontos\pDescontos\obj\Debug\pDescontos.csproj.AssemblyReference.cache
+C:\Users\Priscila\Desktop\C#\pDescontos\pDescontos\obj\Debug\pDescontos.Properties.Resources.resources
+C:\Users\Priscila\Desktop\C#\pDescontos\pDescontos\obj\Debug\pDescontos.csproj.GenerateResource.cache
+C:\Users\Priscila\Desktop\C#\pDescontos\pDescontos\obj\Debug\pDescontos.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Desktop\C#\pDescontos\pDescontos\obj\Debug\pDescontos.exe
+C:\Users\Priscila\Desktop\C#\pDescontos\pDescontos\obj\Debug\pDescontos.pdb
+C:\Users\Priscila\Desktop\C#\pDescontos\pDescontos\obj\Debug\pDescontos.pnlDesconto.resources

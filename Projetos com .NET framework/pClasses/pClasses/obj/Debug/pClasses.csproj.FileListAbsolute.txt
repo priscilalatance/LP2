@@ -1,0 +1,12 @@
+C:\Users\Priscila\Desktop\C#\pClasses\pClasses\bin\Debug\pClasses.exe.config
+C:\Users\Priscila\Desktop\C#\pClasses\pClasses\bin\Debug\pClasses.exe
+C:\Users\Priscila\Desktop\C#\pClasses\pClasses\bin\Debug\pClasses.pdb
+C:\Users\Priscila\Desktop\C#\pClasses\pClasses\obj\Debug\pClasses.csproj.AssemblyReference.cache
+C:\Users\Priscila\Desktop\C#\pClasses\pClasses\obj\Debug\pClasses.Form1.resources
+C:\Users\Priscila\Desktop\C#\pClasses\pClasses\obj\Debug\pClasses.frmMensalista.resources
+C:\Users\Priscila\Desktop\C#\pClasses\pClasses\obj\Debug\pClasses.Properties.Resources.resources
+C:\Users\Priscila\Desktop\C#\pClasses\pClasses\obj\Debug\pClasses.csproj.GenerateResource.cache
+C:\Users\Priscila\Desktop\C#\pClasses\pClasses\obj\Debug\pClasses.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Desktop\C#\pClasses\pClasses\obj\Debug\pClasses.exe
+C:\Users\Priscila\Desktop\C#\pClasses\pClasses\obj\Debug\pClasses.pdb
+C:\Users\Priscila\Desktop\C#\pClasses\pClasses\obj\Debug\pClasses.frmHorista.resources

@@ -1,0 +1,10 @@
+C:\Users\Priscila\Desktop\C#\pCalculadora\pCalculadora\bin\Debug\pCalculadora.exe.config
+C:\Users\Priscila\Desktop\C#\pCalculadora\pCalculadora\bin\Debug\pCalculadora.exe
+C:\Users\Priscila\Desktop\C#\pCalculadora\pCalculadora\bin\Debug\pCalculadora.pdb
+C:\Users\Priscila\Desktop\C#\pCalculadora\pCalculadora\obj\Debug\pCalculadora.csproj.AssemblyReference.cache
+C:\Users\Priscila\Desktop\C#\pCalculadora\pCalculadora\obj\Debug\pCalculadora.pnlCalculadora.resources
+C:\Users\Priscila\Desktop\C#\pCalculadora\pCalculadora\obj\Debug\pCalculadora.Properties.Resources.resources
+C:\Users\Priscila\Desktop\C#\pCalculadora\pCalculadora\obj\Debug\pCalculadora.csproj.GenerateResource.cache
+C:\Users\Priscila\Desktop\C#\pCalculadora\pCalculadora\obj\Debug\pCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Desktop\C#\pCalculadora\pCalculadora\obj\Debug\pCalculadora.exe
+C:\Users\Priscila\Desktop\C#\pCalculadora\pCalculadora\obj\Debug\pCalculadora.pdb

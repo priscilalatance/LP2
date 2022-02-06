@@ -1,0 +1,14 @@
+C:\Users\Priscila\Desktop\C#\pAula08\pAula08\bin\Debug\pAula08.exe.config
+C:\Users\Priscila\Desktop\C#\pAula08\pAula08\bin\Debug\pAula08.exe
+C:\Users\Priscila\Desktop\C#\pAula08\pAula08\bin\Debug\pAula08.pdb
+C:\Users\Priscila\Desktop\C#\pAula08\pAula08\obj\Debug\pAula08.csproj.AssemblyReference.cache
+C:\Users\Priscila\Desktop\C#\pAula08\pAula08\obj\Debug\pAula08.frmPrincipal.resources
+C:\Users\Priscila\Desktop\C#\pAula08\pAula08\obj\Debug\pAula08.Properties.Resources.resources
+C:\Users\Priscila\Desktop\C#\pAula08\pAula08\obj\Debug\pAula08.csproj.GenerateResource.cache
+C:\Users\Priscila\Desktop\C#\pAula08\pAula08\obj\Debug\pAula08.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Desktop\C#\pAula08\pAula08\obj\Debug\pAula08.exe
+C:\Users\Priscila\Desktop\C#\pAula08\pAula08\obj\Debug\pAula08.pdb
+C:\Users\Priscila\Desktop\C#\pAula08\pAula08\obj\Debug\pAula08.frmExercicio1.resources
+C:\Users\Priscila\Desktop\C#\pAula08\pAula08\obj\Debug\pAula08.frmExercicio2.resources
+C:\Users\Priscila\Desktop\C#\pAula08\pAula08\obj\Debug\pAula08.frmExercicio3.resources
+C:\Users\Priscila\Desktop\C#\pAula08\pAula08\obj\Debug\pAula08.frmExercicio4.resources

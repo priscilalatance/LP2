@@ -1,0 +1,10 @@
+C:\Users\Priscila\Desktop\C#\P0030482113037\P0030482113037\obj\Debug\P0030482113037.csproj.AssemblyReference.cache
+C:\Users\Priscila\Desktop\C#\P0030482113037\P0030482113037\obj\Debug\P0030482113037.Form1.resources
+C:\Users\Priscila\Desktop\C#\P0030482113037\P0030482113037\obj\Debug\P0030482113037.Properties.Resources.resources
+C:\Users\Priscila\Desktop\C#\P0030482113037\P0030482113037\obj\Debug\P0030482113037.csproj.GenerateResource.cache
+C:\Users\Priscila\Desktop\C#\P0030482113037\P0030482113037\obj\Debug\P0030482113037.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Desktop\C#\P0030482113037\P0030482113037\bin\Debug\P0030482113037.exe.config
+C:\Users\Priscila\Desktop\C#\P0030482113037\P0030482113037\bin\Debug\P0030482113037.exe
+C:\Users\Priscila\Desktop\C#\P0030482113037\P0030482113037\bin\Debug\P0030482113037.pdb
+C:\Users\Priscila\Desktop\C#\P0030482113037\P0030482113037\obj\Debug\P0030482113037.exe
+C:\Users\Priscila\Desktop\C#\P0030482113037\P0030482113037\obj\Debug\P0030482113037.pdb

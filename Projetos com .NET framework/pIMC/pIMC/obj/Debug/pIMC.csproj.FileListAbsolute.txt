@@ -1,0 +1,10 @@
+C:\Users\Priscila\Desktop\C#\pIMC\pIMC\bin\Debug\pIMC.exe.config
+C:\Users\Priscila\Desktop\C#\pIMC\pIMC\bin\Debug\pIMC.exe
+C:\Users\Priscila\Desktop\C#\pIMC\pIMC\bin\Debug\pIMC.pdb
+C:\Users\Priscila\Desktop\C#\pIMC\pIMC\obj\Debug\pIMC.csproj.AssemblyReference.cache
+C:\Users\Priscila\Desktop\C#\pIMC\pIMC\obj\Debug\pIMC.pnlCalculadoraIMC.resources
+C:\Users\Priscila\Desktop\C#\pIMC\pIMC\obj\Debug\pIMC.Properties.Resources.resources
+C:\Users\Priscila\Desktop\C#\pIMC\pIMC\obj\Debug\pIMC.csproj.GenerateResource.cache
+C:\Users\Priscila\Desktop\C#\pIMC\pIMC\obj\Debug\pIMC.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Desktop\C#\pIMC\pIMC\obj\Debug\pIMC.exe
+C:\Users\Priscila\Desktop\C#\pIMC\pIMC\obj\Debug\pIMC.pdb

@@ -1,0 +1,14 @@
+C:\Users\Priscila\Desktop\C#\pMetodos\pMetodos\bin\Debug\pMetodos.exe.config
+C:\Users\Priscila\Desktop\C#\pMetodos\pMetodos\bin\Debug\pMetodos.exe
+C:\Users\Priscila\Desktop\C#\pMetodos\pMetodos\bin\Debug\pMetodos.pdb
+C:\Users\Priscila\Desktop\C#\pMetodos\pMetodos\obj\Debug\pMetodos.csproj.AssemblyReference.cache
+C:\Users\Priscila\Desktop\C#\pMetodos\pMetodos\obj\Debug\pMetodos.frmPrincipal.resources
+C:\Users\Priscila\Desktop\C#\pMetodos\pMetodos\obj\Debug\pMetodos.frmExercicio2.resources
+C:\Users\Priscila\Desktop\C#\pMetodos\pMetodos\obj\Debug\pMetodos.frmExercicio3.resources
+C:\Users\Priscila\Desktop\C#\pMetodos\pMetodos\obj\Debug\pMetodos.frmExercicio4.resources
+C:\Users\Priscila\Desktop\C#\pMetodos\pMetodos\obj\Debug\pMetodos.Properties.Resources.resources
+C:\Users\Priscila\Desktop\C#\pMetodos\pMetodos\obj\Debug\pMetodos.csproj.GenerateResource.cache
+C:\Users\Priscila\Desktop\C#\pMetodos\pMetodos\obj\Debug\pMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Desktop\C#\pMetodos\pMetodos\obj\Debug\pMetodos.exe
+C:\Users\Priscila\Desktop\C#\pMetodos\pMetodos\obj\Debug\pMetodos.pdb
+C:\Users\Priscila\Desktop\C#\pMetodos\pMetodos\obj\Debug\pMetodos.frmExercicio5.resources
